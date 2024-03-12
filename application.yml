@@ -1,2 +1,4 @@
 app:
   welcomeMsg: ${app.welcomeMsg1:Hello from config server application}
+  welcomeMsg1: Hello message1 from default config application
+  welcomeMsg2: Hello message3 from default config application
