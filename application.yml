@@ -1,2 +1,2 @@
 app:
-  welcomeMsg: ${app.welcomeMsg:Hello from config server application}
+  welcomeMsg: ${app.welcomeMsg1:Hello from config server application}
