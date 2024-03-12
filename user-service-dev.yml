@@ -5,3 +5,4 @@ spring:
     enabled: false
 app:
   welcomeMsg1: Hello from client config application
+  welcomeMsg2: Hello from welcomeMsg2 config application
